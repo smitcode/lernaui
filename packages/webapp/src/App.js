@@ -1,7 +1,7 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import {Button} from "@my-project/library";
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import { Button } from "@smitdev/library";
 
 function App() {
   return (

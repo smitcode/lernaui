@@ -1,6 +1,6 @@
 {
   "name": "@smitdev/webapp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "@craco/craco": "^5.6.4",
     "@my-project/library": "1.0.0",

@@ -1,6 +1,6 @@
 {
   "name": "@smitdev/library",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A project contains all the re-usable components",
   "author": "harshmons <harshverma04111989@gmail.com>",
   "homepage": "",
@@ -16,7 +16,7 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
     "storybook": "start-storybook -p 9009",
-    "build-lib":"babel src --out-dir lib"
+    "build-lib": "babel src --out-dir lib"
   },
   "dependencies": {
     "@material-ui/core": "^4.9.12",

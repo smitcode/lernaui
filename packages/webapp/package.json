@@ -12,6 +12,9 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "start": "craco start",
     "build": "react-scripts build",
